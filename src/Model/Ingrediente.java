@@ -1,10 +1,7 @@
 package Model;
 
-/**
- * @author aluno
- *
- */
-public class Ingrediente {
+
+public class Ingrediente{
 
 	private String nome;
 
